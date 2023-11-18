@@ -1,5 +1,5 @@
 fn main() {
-    println!("=== Programa Bubble Sort ===");
+    println!("=== Bubble Sort ===");
     
     let mut my_vector: Vec<f32> = vec![
         12.5, 6.8, 23.0, 45.2, 8.7, 33.1, 17.9, 5.4, 29.8, 10.3,
